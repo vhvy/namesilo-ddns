@@ -3,8 +3,8 @@
 # test.namesilo.com
 
 key=your.api.key                # Enter your API Key in here
-host=namesilo.com               # Enter your host in here
-domain=test                     # Enter your domain in here
+host=test                       # Enter your host in here
+domain=namesilo.com             # Enter your domain in here
 
 
 api='https://www.namesilo.com/api'
